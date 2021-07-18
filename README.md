@@ -22,8 +22,11 @@ docker-compose build
 docker-compose up -d
 ```
 
-3) Open Jupyter Notebook
+3) Start Jupyter Notebook
+
+Go to link and click to bitcoin-rate-forecasting.ipynb file
 
 ```
-http://localhost:8896/notebooks/biomedical-integratedml-PyODBC.ipynb
+http://localhost:8896/tree
+
 ```
