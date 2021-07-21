@@ -33,7 +33,8 @@ http://localhost:8896/tree
 
 An example of data
 
-![Снимок экрана 2021-07-21 в 15 20 45](https://user-images.githubusercontent.com/31770269/126488218-6b031e94-b5ab-4895-ab09-b77d2834f324.png)
+![Снимок экрана 2021-07-21 в 17 32 27](https://user-images.githubusercontent.com/31770269/126506639-27409bc3-1e58-48db-acec-03706183ee88.png)
+
 
 Prediction accuracy
 
