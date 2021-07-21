@@ -23,6 +23,6 @@ services:
     - 8896:8888 # 8888 is the docker jupyter service port
     - 6026:6006 # 6006 is the tensorboard port
     volumes:
-    - ./jupyter-samples:/tf   #shared volumes
+    - ./jupyter-notebooks:/tf   #shared volumes
 
 
