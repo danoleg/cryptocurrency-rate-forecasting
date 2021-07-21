@@ -22,7 +22,7 @@ docker-compose build
 docker-compose up -d
 ```
 
-3) Start Jupyter Notebook
+4) Start Jupyter Notebook
 
 Go to link and click to bitcoin-rate-forecasting.ipynb file
 
