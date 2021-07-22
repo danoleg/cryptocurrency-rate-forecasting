@@ -1,5 +1,6 @@
 jupyterthemes
 JayDeBeApi
+pyodbc
 pandas
 scikit-learn
 
