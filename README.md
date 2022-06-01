@@ -24,12 +24,19 @@ docker-compose up -d
 
 4) Start Jupyter Notebook
 
-Go to link and click to bitcoin-rate-forecasting.ipynb file
+Go to link and click to crypto-rate-forecasting.ipynb file
 
 ```
 http://localhost:8896/tree
 
 ```
+
+
+**You can choose one of these cryptocurrencies for prediction:**
+- Bitcoin
+- Ethereum
+- Tether
+- Dogecoin
 
 An example of data
 
